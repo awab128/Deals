@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awab128.github.io/Deals/sitemap.xml
